@@ -1,7 +1,7 @@
 # :loudspeaker:Gamezone Sales Data Cleaning
 
 ## Project Overview :exclamation::exclamation:
-Stumbled across Christine Jiang's video on data cleaning and it actually made a lot of things click. She lays out a 5-step framework called CLEAN, and I followed along using a fictional e-commerce dataset from a gaming company called GameZone — 20,000 rows of messy sales records with broken dates, blank values, duplicate orders, and weird shipping timestamps.
+Stumbled across [Christine Jiang's video](https://www.youtube.com/watch?v=y9wFFD2bXQM) on data cleaning and it actually made a lot of things click. She lays out a 5-step framework called CLEAN, and I followed along using a fictional e-commerce dataset from a gaming company called GameZone — 20,000 rows of messy sales records with broken dates, blank values, duplicate orders, and weird shipping timestamps.
 
 The goal was simple: take raw, disorganized data and get it to a point where it's actually trustworthy enough to analyze. Not perfect — just honest, documented, and ready to work with.
 
