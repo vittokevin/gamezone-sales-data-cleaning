@@ -72,4 +72,4 @@ Build the documentation habit early
 Most uni assignments won't ask for an issues log. But doing it anyway, even in a simple form, builds a habit that will matter later on the job. The earlier that becomes a default part of the workflow, the better.
 
 Use this as a foundation for the full analytics lifecycle
-Data cleaning is just the start. The next step is taking this cleaned GameZone dataset and actually running an analysis on it, answering real business questions and practicing how to communicate findings clearly. That's where the work starts to connect end-to-end.
+Data cleaning is just the start. The next step is taking this cleaned GameZone dataset and actually [running an analysis on it](https://github.com/vittokevin/gamezone-sales-trends-eda), answering real business questions and practicing how to communicate findings clearly. That's where the work starts to connect end-to-end.
